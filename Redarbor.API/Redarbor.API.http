@@ -1,0 +1,6 @@
+@Redarbor.API_HostAddress = http://localhost:5144
+
+GET {{Redarbor.API_HostAddress}}/api/redarbor/
+Accept: application/json
+
+###
