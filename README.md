@@ -33,6 +33,8 @@ Validación de datos con FluentValidation
 
 Cree una base de datos vacía con el nombre test.
 
-Ejecuta migraciones Update-database  
+Ejecuta migracion  Update-database 
 
 Establezca la cadena de conexión en el appsettings.json
+
+Para generar el token ejecutar el endpoint Authentication con usuario admin@gmail.com y password admin
